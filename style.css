@@ -236,4 +236,12 @@ label{
         width: 90vw;
         margin-bottom: 5vh;
     }
+    .cardFront > div:nth-child(2){
+        margin-left: 2vw;
+        font-size: calc(80vw/20);
+        font-weight: 700;
+        display: flex;
+        justify-content: space-around;
+        letter-spacing: 8px;
+    }
 }

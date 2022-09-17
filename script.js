@@ -1,4 +1,3 @@
-
 const theForm = document.querySelector(".formContainer")
 const confirmBtn = document.querySelector(".submitBtn")
 const continueBtn = document.querySelector(".Continue")
